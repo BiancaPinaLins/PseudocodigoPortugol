@@ -1,2 +1,2 @@
 # PseudocodigoPortugol
-Exercícios de lógica de programação resolvidos com a utilização do pseudocódigo Portugol
+Listas de exercícios de lógica de programação resolvidas com a utilização do pseudocódigo Portugol
